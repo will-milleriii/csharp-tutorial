@@ -20,7 +20,7 @@
       "outputPath": "/Users/willmiller/gradebook/src/GradeBook/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/willmiller/.config/NuGet/NuGet.Config"
+        "/Users/willmiller/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
