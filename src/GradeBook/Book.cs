@@ -6,11 +6,11 @@ namespace GradeBook
     {
 
         private List<double> grades = new List<double>();
-        private string name;
+        public string Name;
 
         public Book(String name)
         {
-            this.name = name;
+            Name = name;
             grades = new List<double>();
         }
 
