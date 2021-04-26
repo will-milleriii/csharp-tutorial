@@ -7,6 +7,24 @@ namespace GradeBook.Tests
     {
 
         [Fact]
+        public void Test1()
+        {
+            var x = GetInt();
+            SetInt(x);
+
+            Assert.Equal(5, x); //SetInt copies 42 into the memory location for X, but it keeps x as original val
+        }                       //would have to pass by reference to change val of x
+
+        private void SetInt(int x){
+            x = 42;
+        }
+
+        private int GetInt()
+        {
+            return 5;
+        }
+
+        [Fact]
         public void CsharpCanPassByRef()
         {
 
