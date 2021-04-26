@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1YqxvtGoVylINTz4rojYYvU7ayCV3wrrKpG3k6aWxIt+TUgJubRWyoOYzFPeIjmiRTUvlTm7flp/dbS8aJfYgQ==",
+  "dgSpecHash": "rjcEpG/BceMfn51KOLVxjM7b/wCZIXi9ZGq9hKcPwG23tUE0ulnVxyYFKRAciV/vvnyqV1+j+GiGjOrNLzLv/g==",
   "success": true,
   "projectFilePath": "/Users/willmiller/gradebook/test/GradeBook.Tests/GradeBook.Tests.csproj",
   "expectedPackageFiles": [
